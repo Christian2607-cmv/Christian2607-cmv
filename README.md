@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil
 
-meu nome é christian vieira
+ Meu nome é Christian Vieira
 
 Estou estudando no alura.
 
